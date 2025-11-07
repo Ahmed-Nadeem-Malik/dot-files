@@ -1,0 +1,44 @@
+{
+  "profiles" : [
+    {
+      "id" : "D7F86407-B13A-44E2-B039-98F871B23758",
+      "name" : "Default",
+      "workspaces" : [
+        {
+          "apps" : [
+
+          ],
+          "display" : "Built-in Retina Display",
+          "id" : "E3EC01C1-3364-4F91-BB50-B92C250469D2",
+          "name" : "Main",
+          "openAppsOnActivation" : false,
+          "shortcut" : "cmd+ctrl+opt+shift+-"
+        },
+        {
+          "apps" : [
+            {
+              "bundleIdentifier" : "com.mitchellh.ghostty",
+              "iconPath" : "/Applications/Ghostty.app/Contents/Resources/Ghostty.icns",
+              "name" : "Ghostty"
+            },
+            {
+              "bundleIdentifier" : "com.microsoft.VSCode",
+              "iconPath" : "/Applications/Visual Studio Code.app/Contents/Resources/Code.icns",
+              "name" : "Code"
+            },
+            {
+              "bundleIdentifier" : "com.jetbrains.intellij",
+              "iconPath" : "/Applications/IntelliJ IDEA.app/Contents/Resources/idea.icns",
+              "name" : "IntelliJ IDEA"
+            }
+          ],
+          "display" : "Built-in Retina Display",
+          "id" : "7635AC50-2DF7-45AD-8E3A-27F63E1CBDAF",
+          "name" : "Coding",
+          "openAppsOnActivation" : false,
+          "shortcut" : "cmd+ctrl+opt+shift+="
+        }
+      ]
+    }
+  ]
+}
