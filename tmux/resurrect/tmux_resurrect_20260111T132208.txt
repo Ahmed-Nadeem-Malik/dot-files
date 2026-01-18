@@ -1,0 +1,3 @@
+pane	ghostty	1	1	:*	0	Mac.lan	:/Users/ahmed	1	zsh	:
+window	ghostty	1	:zsh	1	:*	bb1d,224x53,0,0,0	:
+state	ghostty	

@@ -1,0 +1,18 @@
+pane	ghostty	1	0	:-	0	Mac.lan	:/Users/ahmed	1	btop	:btop
+pane	ghostty	2	1	:*	0	Mac.lan	:/Users/ahmed	1	zsh	:
+pane	movieRecommendationSystem-2	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	zsh	:
+pane	movieRecommendationSystem-2	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	nvim	:nvim .
+pane	multithreadedHTTPServer-1	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	zsh	:
+pane	multithreadedHTTPServer-1	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	:nvim .
+pane	playground-3	1	1	:*	0	:/Users/ahmed/Coding/Playground/test	0	nvim	24060	:
+pane	playground-3	1	1	:*	1	Mac.lan	:/Users/ahmed/Coding/Playground/test	1	zsh	:
+pane	playground-3	2	0	:-	0	OC | Basic Django app with ORM and GET/POST	:/Users/ahmed/Coding/Playground/test	1	node	:/opt/homebrew/opt/node/bin/node /opt/homebrew/bin/opencode
+window	ghostty	1	:btop	0	:-	b2be,175x41,0,0,1	:
+window	ghostty	2	:zsh	1	:*	d246,159x39,0,0,9	:
+window	movieRecommendationSystem-2	1	:zsh	0	:-	bb21,224x53,0,0,4	:
+window	movieRecommendationSystem-2	2	:nvim	1	:*	bb22,224x53,0,0,5	:
+window	multithreadedHTTPServer-1	1	:zsh	0	:-	bb1f,224x53,0,0,2	:
+window	multithreadedHTTPServer-1	2	:nvim	1	:*	b2c0,175x41,0,0,3	:
+window	playground-3	1	:zsh	1	:*	028f,224x53,0,0{112x53,0,0,6,111x53,113,0,8}	:
+window	playground-3	2	:node	0	:-	bb24,224x53,0,0,7	:
+state	ghostty	multithreadedHTTPServer-1

@@ -1,0 +1,13 @@
+pane	ghostty	1	1	:*	0	Mac.lan	:/Users/ahmed	1	zsh	:
+pane	movieRecommendationSystem-2	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	zsh	:
+pane	movieRecommendationSystem-2	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	nvim	:nvim .
+pane	multithreadedHTTPServer-1	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	zsh	:
+pane	multithreadedHTTPServer-1	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	:nvim .
+pane	playground-3	1	1	:*	0	OpenCode	:/Users/ahmed/Coding/Playground/test	1	node	:/opt/homebrew/opt/node/bin/node /opt/homebrew/bin/opencode .
+window	ghostty	1	:zsh	1	:*	bb1e,224x53,0,0,1	:
+window	movieRecommendationSystem-2	1	:zsh	0	:-	bb21,224x53,0,0,4	:
+window	movieRecommendationSystem-2	2	:nvim	1	:*	bb22,224x53,0,0,5	:
+window	multithreadedHTTPServer-1	1	:zsh	0	:-	bb1f,224x53,0,0,2	:
+window	multithreadedHTTPServer-1	2	:[tmux]	1	:*	bb20,224x53,0,0,3	:
+window	playground-3	1	:node	1	:*	bb23,224x53,0,0,6	:
+state	playground-3	multithreadedHTTPServer-1

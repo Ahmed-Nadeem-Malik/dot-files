@@ -1,0 +1,24 @@
+pane	ghostty	1	1	:*	0	Mac.lan	:/Users/ahmed	1	zsh	:
+pane	movieRecommendationSystem-2	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	zsh	:
+pane	movieRecommendationSystem-2	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	nvim	:nvim .
+pane	multithreadedHTTPServer-1	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	zsh	:
+pane	multithreadedHTTPServer-1	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	:nvim .
+pane	playground-3	1	1	:*	0	:/Users/ahmed/Coding/Playground/test	1	nvim	24060	:/usr/bin/login -flp ahmed /bin/bash --noprofile --norc -c exec -l .config/ghostty-tmux.sh
+bash --noprofile --norc -c exec -l .config/ghostty-tmux.sh
+tmux attach -t ghostty
+-zsh
+/bin/zsh
+-zsh
+-zsh
+-zsh
+-zsh
+-zsh
+pane	playground-3	2	0	:-	0	OC | Basic Django app with ORM and GET/POST	:/Users/ahmed/Coding/Playground/test	1	node	:/opt/homebrew/opt/node/bin/node /opt/homebrew/bin/opencode
+window	ghostty	1	:zsh	1	:*	bb1e,224x53,0,0,1	:
+window	movieRecommendationSystem-2	1	:zsh	0	:-	bb21,224x53,0,0,4	:
+window	movieRecommendationSystem-2	2	:nvim	1	:*	bb22,224x53,0,0,5	:
+window	multithreadedHTTPServer-1	1	:zsh	0	:-	bb1f,224x53,0,0,2	:
+window	multithreadedHTTPServer-1	2	:[tmux]	1	:*	bb20,224x53,0,0,3	:
+window	playground-3	1	:nvim	1	:*	bb23,224x53,0,0,6	:
+window	playground-3	2	:node	0	:-	bb24,224x53,0,0,7	:
+state	playground-3	multithreadedHTTPServer-1

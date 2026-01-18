@@ -1,0 +1,18 @@
+pane	ghostty	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/School/2860/comp2860-semester-1-week-1-AhmedLeeds	1	nvim	:nvim .
+pane	ghostty	2	1	:*	0	Mac.lan	:/Users/ahmed	1	btop	:btop
+pane	movieRecommendationSystem-2	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	zsh	:
+pane	movieRecommendationSystem-2	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	nvim	:nvim .
+pane	multithreadedHTTPServer-1	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	zsh	:
+pane	multithreadedHTTPServer-1	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	:nvim .
+pane	playground-3	1	0	:-	0	:/Users/ahmed/Coding/Playground/test	:/Users/ahmed	0	zsh	:
+pane	playground-3	1	0	:-	1	Mac.lan	:/Users/ahmed/Coding/Playground/test	1	zsh	:
+pane	playground-3	2	1	:*	0	:/Users/ahmed/Coding/Projects	:/Users/ahmed	1	zsh	:
+window	ghostty	1	:nvim	0	:-	bb1e,224x53,0,0,1	:
+window	ghostty	2	:btop	1	:*	b1df,212x51,0,0,2	:
+window	movieRecommendationSystem-2	1	:zsh	0	:-	bb21,224x53,0,0,4	:
+window	movieRecommendationSystem-2	2	:nvim	1	:*	bb22,224x53,0,0,5	:
+window	multithreadedHTTPServer-1	1	:zsh	0	:-	bb23,224x53,0,0,6	:
+window	multithreadedHTTPServer-1	2	:nvim	1	:*	bb24,224x53,0,0,7	:
+window	playground-3	1	:zsh	0	:-	8291,224x53,0,0{112x53,0,0,8,111x53,113,0,9}	:
+window	playground-3	2	:zsh	1	:*	5dbf,224x53,0,0,10	:
+state	ghostty	multithreadedHTTPServer-1
