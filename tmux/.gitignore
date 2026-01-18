@@ -1,0 +1,3 @@
+
+# Ignore tmux plugin manager directory
+tmux/plugins/
