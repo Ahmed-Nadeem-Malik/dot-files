@@ -1,0 +1,47 @@
+pane	2850	1	1	:*	0	Mac.lan	:/Users/ahmed/Coding/School/2850	1	zsh	:
+pane	2850	2	0	:-	0	Mac.lan	:/Users/ahmed/Coding/School/2850/ktor-examples/dice-roller	1	zsh	:
+pane	2860	1	0	:-	0	:/Users/ahmed/Coding/School/2860/networking	1	zsh	1442	:
+pane	2860	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/School/2860/networking	1	nvim	:nvim .
+pane	2860	3	0	:	0	Mac.lan	:/Users/ahmed/Coding/School/2860/networking	0	zsh	:/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app/Contents/MacOS/Python ./ft.py --server --port 9090 --outdir .
+/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app/Contents/MacOS/Python ./ft.py --server --port 9091 --outdir .
+pane	2860	3	0	:	1	Mac.lan	:/Users/ahmed/Coding/School/2860/networking	1	zsh	:
+pane	ghostty	2	1	:*	0	OC | Python: switch to basedpyright for ty...	:/Users/ahmed/.config/nvim	1	zsh	:
+pane	ghostty	3	0	:-	0	Mac.lan	:/Users/ahmed/.config/nvim	1	zsh	:
+pane	movieRecommendationSystem-2	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	zsh	:
+pane	movieRecommendationSystem-2	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	nvim	:nvim .
+pane	multithreadedHTTPServer-1	1	1	:*	0	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	:/Users/ahmed	1	zsh	:
+pane	multithreadedHTTPServer-1	2	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	:nvim .
+pane	playground-3	1	0	:-	0	Mac.lan	:/Users/ahmed	1	nvim	:nvim .
+pane	playground-3	2	1	:*	0	DOOM Shareware	:/Users/ahmed/Coding/Playground/doom-ascii	1	zsh	:
+pane	portfolioWebsite-5	1	1	:*	0	:/Users/ahmed/Coding/Projects/my-portfolio	:/Users/ahmed	1	zsh	:
+pane	portfolioWebsite-5	2	0	:	0	Mac.lan	:/Users/ahmed/Coding/Projects/my-portfolio	1	nvim	:nvim .
+pane	portfolioWebsite-5	3	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/my-portfolio	1	zsh	:
+pane	rust	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Playground/Rust	1	zsh	:
+pane	rust	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Playground/Rust	1	nvim	:nvim .
+pane	rust	3	0	:	0	OC | Rust calculator in src/main.rs file	:/Users/ahmed/Coding/Playground/Rust	1	zsh	:
+pane	websocketGame-4	1	1	:*	0	:/Users/ahmed/Coding/Projects/websocketGame	:/Users/ahmed	1	zsh	:
+pane	websocketGame-4	2	0	:	0	DOOM Shareware	:/Users/ahmed/Coding/Projects/websocketGame/src/main/resources	1	zsh	:
+pane	websocketGame-4	3	0	:-	0	:/Users/ahmed/Coding/Projects/websocketGame	:/Users/ahmed	1	zsh	:
+window	2850	1	:zsh	1	:*	cede,210x49,0,0,1	:
+window	2850	2	:zsh	0	:-	cedf,210x49,0,0,2	:
+window	2860	1	:zsh	0	:-	c9c0,192x47,0,0,3	:
+window	2860	2	:nvim	1	:*	b8c1,171x43,0,0,4	:
+window	2860	3	:zsh	0	:	4b54,192x47,0,0{96x47,0,0,25,95x47,97,0,26}	:
+window	ghostty	2	:zsh	1	:*	cee3,210x49,0,0,6	:
+window	ghostty	3	:zsh	0	:-	cee4,210x49,0,0,7	:
+window	movieRecommendationSystem-2	1	:zsh	0	:-	cee5,210x49,0,0,8	:
+window	movieRecommendationSystem-2	2	:nvim	1	:*	cee6,210x49,0,0,9	:
+window	multithreadedHTTPServer-1	1	:zsh	1	:*	679f,210x49,0,0,10	:
+window	multithreadedHTTPServer-1	2	:nvim	0	:-	67a0,210x49,0,0,11	:
+window	playground-3	1	:nvim	0	:-	67a1,210x49,0,0,12	:
+window	playground-3	2	:zsh	1	:*	67a2,210x49,0,0,13	:
+window	portfolioWebsite-5	1	:zsh	1	:*	67a3,210x49,0,0,14	:
+window	portfolioWebsite-5	2	:nvim	0	:	67a4,210x49,0,0,15	:
+window	portfolioWebsite-5	3	:zsh	0	:-	67a5,210x49,0,0,16	:
+window	rust	1	:zsh	0	:-	67a6,210x49,0,0,17	:
+window	rust	2	:nvim	1	:*	6037,145x35,0,0,18	:
+window	rust	3	:zsh	0	:	67a8,210x49,0,0,19	:
+window	websocketGame-4	1	:zsh	1	:*	e79f,210x49,0,0,20	:
+window	websocketGame-4	2	:zsh	0	:	e7a0,210x49,0,0,21	:
+window	websocketGame-4	3	:zsh	0	:-	e7a1,210x49,0,0,22	:
+state	2860	ghostty

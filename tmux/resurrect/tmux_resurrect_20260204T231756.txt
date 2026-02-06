@@ -1,0 +1,67 @@
+pane	2850	1	1	:*	0	Mac.lan	:/Users/ahmed/Coding/School/2850	1	zsh	:
+pane	2850	2	0	:-	0	Mac.lan	:/Users/ahmed/Coding/School/2850/ktor-examples/dice-roller	1	zsh	:
+pane	2860	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/School/2860/networking	1	zsh	:
+pane	2860	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/School/2860/networking	1	zsh	:
+pane	ghostty	1	1	:*	0	:/Users/ahmed	1	zsh	12183	:
+pane	ghostty	2	0	:-	0	OC | Python: switch to basedpyright for ty...	:/Users/ahmed/.config/nvim	1	node	:/opt/homebrew/opt/node/bin/node /opt/homebrew/bin/opencode
+pane	ghostty	3	0	:	0	Mac.lan	:/Users/ahmed/.config/nvim	1	zsh	:
+pane	movieRecommendationSystem-2	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	zsh	:
+pane	movieRecommendationSystem-2	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	nvim	:nvim .
+pane	multithreadedHTTPServer-1	1	1	:*	0	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	12422	:
+pane	multithreadedHTTPServer-1	2	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	:nvim .
+pane	playground-3	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Playground/Rust/temp/hello	1	nvim	:nvim .
+pane	playground-3	2	1	:*	0	DOOM Shareware	:/Users/ahmed/Coding/Playground/doom-ascii	1	zsh	:
+pane	portfolioWebsite-5	1	1	:*	0	:/Users/ahmed/Coding/Projects/my-portfolio	1	nvim	73731	:-zsh
+-zsh
+/bin/zsh
+/opt/homebrew/opt/node/bin/node /opt/homebrew/bin/opencode
+/bin/zsh
+-zsh
+/bin/zsh
+/bin/zsh
+nvim .
+/bin/zsh
+nvim .
+/bin/zsh
+nvim .
+-zsh
+-zsh
+/bin/zsh
+-zsh
+-zsh
+-zsh
+-zsh
+-zsh
+-zsh
+-zsh
+-zsh
+-zsh
+pane	portfolioWebsite-5	2	0	:	0	Mac.lan	:/Users/ahmed/Coding/Projects/my-portfolio	1	nvim	:nvim .
+pane	portfolioWebsite-5	3	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/my-portfolio	1	zsh	:
+pane	rust	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Playground/Rust	1	zsh	:
+pane	rust	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Playground/Rust	1	nvim	:nvim .
+pane	websocketGame-4	1	1	:*	0	:/Users/ahmed/Coding/Projects/websocketGame	1	zsh	44646	:
+pane	websocketGame-4	2	0	:	0	DOOM Shareware	:/Users/ahmed/Coding/Projects/websocketGame/src/main/resources	1	zsh	:
+pane	websocketGame-4	3	0	:-	0	:/Users/ahmed/Coding/Projects/websocketGame	1	zsh	2319	:
+window	2850	1	:zsh	1	:*	ddc2,224x53,0,0,23	:
+window	2850	2	:zsh	0	:-	ddc3,224x53,0,0,24	:
+window	2860	1	:zsh	0	:-	5dc6,224x53,0,0,36	:
+window	2860	2	:zsh	1	:*	6137,149x35,0,0,37	:
+window	ghostty	1	:zsh	1	:*	bb1e,224x53,0,0,1	:
+window	ghostty	2	:node	0	:-	bdbf,196x53,0,0,2	:
+window	ghostty	3	:zsh	0	:	5cd3,111x53,0,0,14	:
+window	movieRecommendationSystem-2	1	:zsh	0	:-	bb21,224x53,0,0,4	:
+window	movieRecommendationSystem-2	2	:nvim	1	:*	be02,183x44,0,0,5	:
+window	multithreadedHTTPServer-1	1	:nvim	1	:*	c103,128x35,0,0,6	:
+window	multithreadedHTTPServer-1	2	:nvim	0	:-	c104,128x35,0,0,7	:
+window	playground-3	1	:nvim	0	:-	5dc4,224x53,0,0,15	:
+window	playground-3	2	:zsh	1	:*	5d7f,288x71,0,0,10	:
+window	portfolioWebsite-5	1	:[tmux]	1	:*	d98f,175x41,0,0,20	:
+window	portfolioWebsite-5	2	:nvim	0	:	df30,183x44,0,0,21	:
+window	portfolioWebsite-5	3	:zsh	0	:-	df31,183x44,0,0,22	:
+window	rust	1	:zsh	0	:-	6138,149x35,0,0,38	:
+window	rust	2	:nvim	1	:*	6279,146x36,0,0,39	:
+window	websocketGame-4	1	:zsh	1	:*	5ad0,153x42,0,0,11	:
+window	websocketGame-4	2	:zsh	0	:	5991,175x41,0,0,12	:
+window	websocketGame-4	3	:zsh	0	:-	60b2,128x35,0,0,13	:
+state	rust	2860

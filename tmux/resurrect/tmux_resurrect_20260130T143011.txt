@@ -1,0 +1,25 @@
+pane	ghostty	1	1	:*	0	OC | Rust analyzer in config for Rust setup	:/Users/ahmed/.config/nvim	1	node	:/opt/homebrew/opt/node/bin/node /opt/homebrew/bin/opencode
+pane	ghostty	2	0	:	0	Mac.lan	:/Users/ahmed	1	btop	:btop
+pane	ghostty	3	0	:-	0	Mac.lan	:/Users/ahmed/.config/nvim	1	zsh	:
+pane	movieRecommendationSystem-2	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	zsh	:
+pane	movieRecommendationSystem-2	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Movie-Recommendation-System	1	nvim	:nvim .
+pane	multithreadedHTTPServer-1	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	zsh	:
+pane	multithreadedHTTPServer-1	2	1	:*	0	Mac.lan	:/Users/ahmed/Coding/Projects/Multithreaded-HTTP-Server	1	nvim	:nvim .
+pane	playground-3	1	0	:-	0	Mac.lan	:/Users/ahmed/Coding/Playground/Rust/temp/hello	1	nvim	:nvim .
+pane	playground-3	2	1	:*	0	:/Users/ahmed/Coding/Projects	1	node	12652	:
+pane	websocketGame-4	1	0	:-	0	:/Users/ahmed/Coding/Projects/websocketGame	1	zsh	44646	:
+pane	websocketGame-4	2	0	:	0	Mac.lan	:/Users/ahmed/Coding/Projects/websocketGame/src/main/resources	1	zsh	:
+pane	websocketGame-4	3	1	:*	0	:/Users/ahmed/Coding/Projects/websocketGame	1	zsh	2319	:
+window	ghostty	1	:node	1	:*	bb1e,224x53,0,0,1	:
+window	ghostty	2	:btop	0	:	bb1f,224x53,0,0,2	:
+window	ghostty	3	:zsh	0	:-	5cd3,111x53,0,0,14	:
+window	movieRecommendationSystem-2	1	:zsh	0	:-	bb21,224x53,0,0,4	:
+window	movieRecommendationSystem-2	2	:nvim	1	:*	be02,183x44,0,0,5	:
+window	multithreadedHTTPServer-1	1	:zsh	0	:-	bb23,224x53,0,0,6	:
+window	multithreadedHTTPServer-1	2	:nvim	1	:*	bb24,224x53,0,0,7	:
+window	playground-3	1	:nvim	0	:-	5dc4,224x53,0,0,15	:
+window	playground-3	2	:node	1	:*	5f2f,183x44,0,0,10	:
+window	websocketGame-4	1	:zsh	0	:-	5f30,183x44,0,0,11	:
+window	websocketGame-4	2	:zsh	0	:	5dc1,224x53,0,0,12	:
+window	websocketGame-4	3	:zsh	1	:*	63d2,134x37,0,0,13	:
+state	playground-3	movieRecommendationSystem-2
